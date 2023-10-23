@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EnextdeskApplication<Enextdesk>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.enextgenwireless.Enextdesk.EnextdeskApplication",
+            "projectName": "Enextdesk",
+            "args": ""
+        }
+    ]
+}
