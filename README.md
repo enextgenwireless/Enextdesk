@@ -7,8 +7,9 @@ Enextdesk Project Management Tool
 https://enextgenwireless.github.io/Enextdesk/
 
 ## Demo
+:accessibility:
 
-http://144.24.133.99/
+http://localhost:4200/
 
 *Admin:* demo-admin@domain.com
 
